@@ -1,2 +1,2 @@
 # HaskellProgrammingExcercises
-Some Excercises for learning Haskell
+Some Excercises for learning Haskell (german language comments)
